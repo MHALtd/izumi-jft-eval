@@ -1,16 +1,18 @@
-// Dokkai.js
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 
-const dokkaiSchema = new mongoose.Schema({
-  number: Number,
-  attach: String,
-  questionText: String,
-  answerOptions: [
-    {
-      answerText: String,
-      isCorrect: Boolean,
-    },
-  ],
-});
+const dokkaiSchema = mongoose.Schema(
+  {
+    number: { type: Number, required: true },
+    attach: { type: String, required: true },
+    questionText: { type: String, required: true },
+    answerOptions: [
+      {
+        answerText: { type: String, required: true },
+        isCorrect: { type: Boolean, required: true },
+      },
+    ],
+  },
+  { collection: "dokkai" }
+);
 
-module.exports = mongoose.model("Dokkai", dokkaiSchema);
+export const Dokkai = mongoose.model("Dokkai", dokkaiSchema);

@@ -1,15 +1,17 @@
-// Goi.js
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 
-const goiSchema = new mongoose.Schema({
-  number: Number,
-  attach: String,
-  answerOptions: [
-    {
-      answerText: String,
-      isCorrect: Boolean,
-    },
-  ],
-});
+const goiSchema = mongoose.Schema(
+  {
+    number: { type: Number, required: true },
+    attach: { type: String, required: true },
+    answerOptions: [
+      {
+        answerText: { type: String, required: true },
+        isCorrect: { type: Boolean, required: true },
+      },
+    ],
+  },
+  { collection: "goi" }
+);
 
-module.exports = mongoose.model("Goi", goiSchema);
+export const Goi = mongoose.model("Goi", goiSchema);

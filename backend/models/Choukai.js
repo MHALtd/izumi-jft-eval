@@ -1,21 +1,23 @@
-// Choukai.js
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 
-const choukaiSchema = new mongoose.Schema({
-  number: Number,
-  audio: String,
-  questionText: String,
-  attach: [
-    {
-      answerAttach: String,
-    },
-  ],
-  answerOptions: [
-    {
-      answerText: String,
-      isCorrect: Boolean,
-    },
-  ],
-});
+const choukaiSchema = mongoose.Schema(
+  {
+    number: { type: Number, required: true },
+    audio: { type: String, required: true },
+    questionText: { type: String, required: true },
+    attach: [
+      {
+        answerAttach: { type: String, required: true },
+      },
+    ],
+    answerOptions: [
+      {
+        answerText: { type: String, required: true },
+        isCorrect: { type: Boolean, required: true },
+      },
+    ],
+  },
+  { collection: "choukai" }
+);
 
-module.exports = mongoose.model("Choukai", choukaiSchema);
+export const Choukai = mongoose.model("Choukai", choukaiSchema);
