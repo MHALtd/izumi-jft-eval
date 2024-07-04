@@ -1,0 +1,227 @@
+[
+  {
+    "number": 1,
+    "attach": "/src/assets/goi/goi1.png",
+    "answerOptions": [
+      { "answerText": "Tシャツ", "isCorrect": true },
+      { "answerText": "ワンピース", "isCorrect": false },
+      { "answerText": "ぼうし", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 2,
+    "attach": "/src/assets/goi/goi2.png",
+    "answerOptions": [
+      { "answerText": "わらう", "isCorrect": false },
+      { "answerText": "いわう", "isCorrect": false },
+      { "answerText": "なく", "isCorrect": true }
+    ]
+  },
+  {
+    "number": 3,
+    "attach": "/src/assets/goi/goi3.png",
+    "answerOptions": [
+      { "answerText": "つける", "isCorrect": true },
+      { "answerText": "まぜる", "isCorrect": false },
+      { "answerText": "やく", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 4,
+    "attach": "/src/assets/goi/goi4.png",
+    "answerOptions": [
+      { "answerText": "にぎやか", "isCorrect": false },
+      { "answerText": "だるい", "isCorrect": true },
+      { "answerText": "まじめ", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 5,
+    "attach": "/src/assets/goi/goi5.png",
+    "answerOptions": [
+      { "answerText": "コンビニ", "isCorrect": false },
+      { "answerText": "かんばん", "isCorrect": false },
+      { "answerText": "ポスト", "isCorrect": true }
+    ]
+  },
+  {
+    "number": 6,
+    "attach": "/src/assets/goi/goi6.png",
+    "answerOptions": [
+      { "answerText": "サイクリング", "isCorrect": false },
+      { "answerText": "おうだんほどう", "isCorrect": true },
+      { "answerText": "はくぶつかん", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 7,
+    "attach": "/src/assets/goi/goi7.png",
+    "answerOptions": [
+      { "answerText": "こむぎこ", "isCorrect": false },
+      { "answerText": "きのこ", "isCorrect": false },
+      { "answerText": "スパイス", "isCorrect": true }
+    ]
+  },
+  {
+    "number": 8,
+    "attach": "/src/assets/goi/goi8.png",
+    "answerOptions": [
+      { "answerText": "あげる", "isCorrect": false },
+      { "answerText": "むす", "isCorrect": true },
+      { "answerText": "わかす", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 9,
+    "attach": "/src/assets/goi/goi9.png",
+    "answerOptions": [
+      { "answerText": "つめたい", "isCorrect": true },
+      { "answerText": "なんとか", "isCorrect": false },
+      { "answerText": "にがて", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 10,
+    "attach": "/src/assets/goi/goi10.png",
+    "answerOptions": [
+      { "answerText": "ひやけをする", "isCorrect": false },
+      { "answerText": "でんげんをきる", "isCorrect": true },
+      { "answerText": "ひげをはやす", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 11,
+    "attach": "/src/assets/goi/goi11.png",
+    "answerOptions": [
+      { "answerText": "フルーツ", "isCorrect": true },
+      { "answerText": "ジャングル", "isCorrect": false },
+      { "answerText": "ナッツ", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 12,
+    "attach": "/src/assets/goi/goi12.png",
+    "answerOptions": [
+      { "answerText": "うんどうする", "isCorrect": false },
+      { "answerText": "さんかする", "isCorrect": false },
+      { "answerText": "あんないする", "isCorrect": true }
+    ]
+  },
+  {
+    "number": 13,
+    "attach": "/src/assets/goi/goi13.png",
+    "answerOptions": [
+      { "answerText": "すっぱい", "isCorrect": true },
+      { "answerText": "しょっぱい", "isCorrect": false },
+      { "answerText": "あまい", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 14,
+    "attach": "/src/assets/goi/goi14.png",
+    "answerOptions": [
+      { "answerText": "はこぶ", "isCorrect": false },
+      { "answerText": "のりかえる", "isCorrect": true },
+      { "answerText": "すごす", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 15,
+    "attach": "/src/assets/goi/goi15.png",
+    "answerOptions": [
+      { "answerText": "すずしい", "isCorrect": false },
+      { "answerText": "さびしい", "isCorrect": true },
+      { "answerText": "きびしい", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 16,
+    "questionText": "よく眠（ねむ）れないときは、ぬるい（＿＿）にゆっくり入るといいですよ。",
+    "answerOptions": [
+      { "answerText": "おしいれ", "isCorrect": false },
+      { "answerText": "おふろ", "isCorrect": true },
+      { "answerText": "へや", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 17,
+    "questionText": "コンピューターがうごかないとき、（＿＿）してみてください。",
+    "answerOptions": [
+      { "answerText": "ちゅうい", "isCorrect": false },
+      { "answerText": "れんらく", "isCorrect": false },
+      { "answerText": "さいこどう", "isCorrect": true }
+    ]
+  },
+  {
+    "number": 18,
+    "questionText": "しけんに（＿＿）したそうですね。おめでとうございます。",
+    "answerOptions": [
+      { "answerText": "ごうかく", "isCorrect": true },
+      { "answerText": "おいわい", "isCorrect": false },
+      { "answerText": "たいせつに", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 19,
+    "questionText": "きのう（＿＿）でかみをきりました。とても高かったです。",
+    "answerOptions": [
+      { "answerText": "りはつてん", "isCorrect": true },
+      { "answerText": "ちゅうこしゃてん", "isCorrect": false },
+      { "answerText": "クリーニングてん", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 20,
+    "questionText": "ごみをすてるとき、かならず（＿＿）しなければなりません。",
+    "answerOptions": [
+      { "answerText": "しゅうり", "isCorrect": false },
+      { "answerText": "ぶんべつ", "isCorrect": true },
+      { "answerText": "せつでん", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 21,
+    "questionText": "朝ごはんは（＿＿）たべません。ジュースやぎゅうにゅうを飲みます。",
+    "answerOptions": [
+      { "answerText": "ふつう", "isCorrect": false },
+      { "answerText": "あまり", "isCorrect": true },
+      { "answerText": "いつか", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 22,
+    "questionText": "レストランのメニューは、（＿＿）に書いてありますよ。",
+    "answerOptions": [
+      { "answerText": "やたい", "isCorrect": false },
+      { "answerText": "ドライバー", "isCorrect": false },
+      { "answerText": "かんばん", "isCorrect": true }
+    ]
+  },
+  {
+    "number": 23,
+    "questionText": "休みの日は、たいていうちでごろごろしたり、（＿＿）を見たりしています。",
+    "answerOptions": [
+      { "answerText": "ネット", "isCorrect": true },
+      { "answerText": "音楽", "isCorrect": false },
+      { "answerText": "ラッシュ", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 24,
+    "questionText": "旅行する前に、ちゃんと計画を（＿＿）おきましょう。",
+    "answerOptions": [
+      { "answerText": "しらべて", "isCorrect": false },
+      { "answerText": "たてて", "isCorrect": true },
+      { "answerText": "むいて", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 25,
+    "questionText": "私のしゅみは（＿＿）ですから、毎日できるだけ1時間ぐらいおよいでいます。すごく楽しいです。",
+    "answerOptions": [
+      { "answerText": "サイクリング", "isCorrect": false },
+      { "answerText": "どくしょ", "isCorrect": false },
+      { "answerText": "すいえい", "isCorrect": true }
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "number": 1,
+    "attach": "/src/assets/dokkai/dokkai1.png",
+    "questionText": "カルロスからの返事はどれですか。",
+    "answerOptions": [
+      { "answerText": "メール、ありがとう。来週は行きます。", "isCorrect": true },
+      { "answerText": "メール、ありがとう。今月は休まないで、ごめんなさい。", "isCorrect": false },
+      { "answerText": "メール、ありがとう。日本語ができなくて、ごめんなさい。", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 2,
+    "attach": "/src/assets/dokkai/dokkai2.png",
+    "questionText": "薬を飲んで、注意することはなんですか。",
+    "answerOptions": [
+      { "answerText": "薬を寝る前に、飲みません。", "isCorrect": false },
+      { "answerText": "薬を飲んでから、お酒を飲みます。", "isCorrect": true },
+      { "answerText": "薬を一日一回飲みます。", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 3,
+    "attach": "/src/assets/dokkai/dokkai3.png",
+    "questionText": "ゆすけさんはビーフステーキセット、ご飯単品、アイスフルーツ、を注文しました。いくら払いますか。",
+    "answerOptions": [
+      { "answerText": "2100円。", "isCorrect": true },
+      { "answerText": "1900円。", "isCorrect": false },
+      { "answerText": "2010円。", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 4,
+    "attach": "/src/assets/dokkai/dokkai4.png",
+    "questionText": "ブラジルではだれがだれに何をおくりますか。",
+    "answerOptions": [
+      { "answerText": "女の人が好きな男の人にチョコレートをおくります。", "isCorrect": false },
+      { "answerText": "男の人が好きな女の人にチョコレートをおくります。", "isCorrect": false },
+      { "answerText": "恋人が恋人に写真立てをおくります。", "isCorrect": true }
+    ]
+  },
+  {
+    "number": 5,
+    "attach": "/src/assets/dokkai/dokkai5.png",
+    "questionText": "子供講座（こうざ）「牛乳パック椅子」は何曜日、何を持ってる行きますか。",
+    "answerOptions": [
+      { "answerText": "土曜日、牛乳パック", "isCorrect": true },
+      { "answerText": "日曜日、服", "isCorrect": false },
+      { "answerText": "土曜日、ミルク", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 6,
+    "attach": "/src/assets/dokkai/dokkai6.png",
+    "questionText": "さくらガーデンでは明日の朝１０時半から１２時まで何ができませんか。",
+    "answerOptions": [
+      { "answerText": "エレベーターにのること", "isCorrect": true },
+      { "answerText": "マンションに入ったり出たりすること", "isCorrect": false },
+      { "answerText": "部屋のドアを開けたり閉めたりすること", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 7,
+    "attach": "/src/assets/dokkai/dokkai7.png",
+    "questionText": "文章に正しいものはどれですか。",
+    "answerOptions": [
+      { "answerText": "一皿のすしは1000円ぐらいのなります", "isCorrect": false },
+      { "answerText": "すし屋にはビールもうっています", "isCorrect": true },
+      { "answerText": "日本は天ぷらは好きじゃありません", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 8,
+    "attach": "/src/assets/dokkai/dokkai8.png",
+    "questionText": "健康づくりのこうざに参加するのに、いくら払いますか。",
+    "answerOptions": [
+      { "answerText": "500円はらいます", "isCorrect": false },
+      { "answerText": "2000円はらいます", "isCorrect": false },
+      { "answerText": "ただです", "isCorrect": true }
+    ]
+  },
+  {
+    "number": 9,
+    "attach": "/src/assets/dokkai/dokkai9.png",
+    "questionText": "リコさんはZoomの教室に参加したいです。いつ参加できますか。",
+    "answerOptions": [
+      { "answerText": "5月26日（金）", "isCorrect": false },
+      { "answerText": "７月21日（木）", "isCorrect": false },
+      { "answerText": "6月21日（水）", "isCorrect": true }
+    ]
+  },
+  {
+    "number": 10,
+    "attach": "/src/assets/dokkai/dokkai10.png",
+    "questionText": "花火大会は雨が降るときは、どうしますか。",
+    "answerOptions": [
+      { "answerText": "雨が降るときはつぎの月に行われます。", "isCorrect": false },
+      { "answerText": "雨が降るときはつぎの日に行われます。", "isCorrect": true },
+      { "answerText": "雨が降っても、花火大会は行われます。", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 11,
+    "attach": "/src/assets/dokkai/dokkai11.png",
+    "questionText": "どうしてコンビニを利用する人がふえましたか。",
+    "answerOptions": [
+      { "answerText": "スーパーよりコンビニのほうが安いから。", "isCorrect": false },
+      { "answerText": "使うものだけ買いたい人がふたから。", "isCorrect": true },
+      { "answerText": "コンビニには食べ物がおいてあるから。", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 12,
+    "attach": "/src/assets/dokkai/dokkai12.png",
+    "questionText": "二人は何時に会えましたか。",
+    "answerOptions": [
+      { "answerText": "10時15分", "isCorrect": false },
+      { "answerText": "9時15分", "isCorrect": false },
+      { "answerText": "10時", "isCorrect": true }
+    ]
+  },
+  {
+    "number": 13,
+    "attach": "/src/assets/dokkai/dokkai13.png",
+    "questionText": "ヒロさんはどうして9時に来ませんでしたか。",
+    "answerOptions": [
+      { "answerText": "待ち合わせをしたから。", "isCorrect": false },
+      { "answerText": "朝起きられなかったから。", "isCorrect": true },
+      { "answerText": "事故にあったから。", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 14,
+    "attach": "/src/assets/dokkai/dokkai14.png",
+    "questionText": "日本語教室は週に何回何曜日行われますか。",
+    "answerOptions": [
+      { "answerText": "週に1回木曜日。", "isCorrect": true },
+      { "answerText": "週に2回日曜日と月曜日。", "isCorrect": false },
+      { "answerText": "週に3回木曜日、月曜日、金曜日。", "isCorrect": false }
+    ]
+  },
+  {
+    "number": 15,
+    "attach": "/src/assets/dokkai/dokkai15.png",
+    "questionText": "たまごのアレルギーがある人はこのおにぎりを食べられますか。",
+    "answerOptions": [
+      { "answerText": "はい、食べられます。", "isCorrect": false },
+      { "answerText": "いいえ、食べられません。", "isCorrect": true },
+      { "answerText": "はい、食べてもいい。", "isCorrect": false }
+    ]
+  }
+]
