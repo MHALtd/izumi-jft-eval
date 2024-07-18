@@ -9,7 +9,7 @@ export default defineConfig({
     "process.env.VITE_BACKEND_LINK": JSON.stringify(process.env.VITE_BACKEND_LINK),
   },
   build: {
-    outDir: "production",
+    outDir: "dist",
     rollupOptions: {
       input: {
         index: "index.html",
