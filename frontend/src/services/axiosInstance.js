@@ -2,7 +2,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-  baseURL: "http://localhost:5555", // Ganti PORT dengan port backend Anda
+  baseURL: import.meta.env.VITE_BACKEND_LINK, // Ganti PORT dengan port backend Anda
   headers: {
     "Content-Type": "application/json",
   },
