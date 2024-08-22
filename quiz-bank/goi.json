@@ -1,7 +1,7 @@
 [
   {
     "number": 1,
-    "attach": "/src/assets/goi1.png",
+    "attach": "/src/assets/goi/goi1.png",
     "answerOptions": [
       { "answerText": "Tシャツ", "isCorrect": true },
       { "answerText": "ワンピース", "isCorrect": false },
@@ -10,7 +10,7 @@
   },
   {
     "number": 2,
-    "attach": "/src/assets/goi2.png",
+    "attach": "/src/assets/goi/goi2.png",
     "answerOptions": [
       { "answerText": "わらう", "isCorrect": false },
       { "answerText": "いわう", "isCorrect": false },
@@ -19,7 +19,7 @@
   },
   {
     "number": 3,
-    "attach": "/src/assets/goi3.png",
+    "attach": "/src/assets/goi/goi3.png",
     "answerOptions": [
       { "answerText": "つける", "isCorrect": true },
       { "answerText": "まぜる", "isCorrect": false },
@@ -28,7 +28,7 @@
   },
   {
     "number": 4,
-    "attach": "/src/assets/goi4.png",
+    "attach": "/src/assets/goi/goi4.png",
     "answerOptions": [
       { "answerText": "にぎやか", "isCorrect": false },
       { "answerText": "だるい", "isCorrect": true },
@@ -37,7 +37,7 @@
   },
   {
     "number": 5,
-    "attach": "/src/assets/goi5.png",
+    "attach": "/src/assets/goi/goi5.png",
     "answerOptions": [
       { "answerText": "コンビニ", "isCorrect": false },
       { "answerText": "かんばん", "isCorrect": false },
@@ -46,7 +46,7 @@
   },
   {
     "number": 6,
-    "attach": "/src/assets/goi6.png",
+    "attach": "/src/assets/goi/goi6.png",
     "answerOptions": [
       { "answerText": "サイクリング", "isCorrect": false },
       { "answerText": "おうだんほどう", "isCorrect": true },
@@ -55,7 +55,7 @@
   },
   {
     "number": 7,
-    "attach": "/src/assets/goi7.png",
+    "attach": "/src/assets/goi/goi7.png",
     "answerOptions": [
       { "answerText": "こむぎこ", "isCorrect": false },
       { "answerText": "きのこ", "isCorrect": false },
@@ -64,7 +64,7 @@
   },
   {
     "number": 8,
-    "attach": "/src/assets/goi8.png",
+    "attach": "/src/assets/goi/goi8.png",
     "answerOptions": [
       { "answerText": "あげる", "isCorrect": false },
       { "answerText": "むす", "isCorrect": true },
@@ -73,7 +73,7 @@
   },
   {
     "number": 9,
-    "attach": "/src/assets/goi9.png",
+    "attach": "/src/assets/goi/goi9.png",
     "answerOptions": [
       { "answerText": "つめたい", "isCorrect": true },
       { "answerText": "なんとか", "isCorrect": false },
@@ -82,7 +82,7 @@
   },
   {
     "number": 10,
-    "attach": "/src/assets/goi10.png",
+    "attach": "/src/assets/goi/goi10.png",
     "answerOptions": [
       { "answerText": "ひやけをする", "isCorrect": false },
       { "answerText": "でんげんをきる", "isCorrect": true },
@@ -91,7 +91,7 @@
   },
   {
     "number": 11,
-    "attach": "/src/assets/goi11.png",
+    "attach": "/src/assets/goi/goi11.png",
     "answerOptions": [
       { "answerText": "フルーツ", "isCorrect": true },
       { "answerText": "ジャングル", "isCorrect": false },
@@ -100,7 +100,7 @@
   },
   {
     "number": 12,
-    "attach": "/src/assets/goi12.png",
+    "attach": "/src/assets/goi/goi12.png",
     "answerOptions": [
       { "answerText": "うんどうする", "isCorrect": false },
       { "answerText": "さんかする", "isCorrect": false },
@@ -109,7 +109,7 @@
   },
   {
     "number": 13,
-    "attach": "/src/assets/goi13.png",
+    "attach": "/src/assets/goi/goi13.png",
     "answerOptions": [
       { "answerText": "すっぱい", "isCorrect": true },
       { "answerText": "しょっぱい", "isCorrect": false },
@@ -118,7 +118,7 @@
   },
   {
     "number": 14,
-    "attach": "/src/assets/goi14.png",
+    "attach": "/src/assets/goi/goi14.png",
     "answerOptions": [
       { "answerText": "はこぶ", "isCorrect": false },
       { "answerText": "のりかえる", "isCorrect": true },
@@ -127,7 +127,7 @@
   },
   {
     "number": 15,
-    "attach": "/src/assets/goi15.png",
+    "attach": "/src/assets/goi/goi15.png",
     "answerOptions": [
       { "answerText": "すずしい", "isCorrect": false },
       { "answerText": "さびしい", "isCorrect": true },

@@ -1,12 +1,12 @@
 [
   {
     "number": 1,
-    "audio": "/src/assets/1.mp3",
+    "audio": "/src/assets/choukai/1.mp3",
     "questionText": "女性はどんな仕事をしていますか？",
     "attach": [
-      { "answerAttach": "/src/assets/1a.png" },
-      { "answerAttach": "/src/assets/1b.png" },
-      { "answerAttach": "/src/assets/1c.png" }
+      { "answerAttach": "/src/assets/choukai/option/1a.png" },
+      { "answerAttach": "/src/assets/choukai/option/1b.png" },
+      { "answerAttach": "/src/assets/choukai/option/1c.png" }
     ],
     "answerOptions": [
       { "answerText": "1", "isCorrect": false },
@@ -16,12 +16,12 @@
   },
   {
     "number": 2,
-    "audio": "/src/assets/2.mp3",
+    "audio": "/src/assets/choukai/2.mp3",
     "questionText": "彼らは休日の活動について話しています。エコさんは何をしていますか？",
     "attach": [
-      { "answerAttach": "/src/assets/2a.png" },
-      { "answerAttach": "/src/assets/2b.png" },
-      { "answerAttach": "/src/assets/2c.png" }
+      { "answerAttach": "/src/assets/choukai/option/2a.png" },
+      { "answerAttach": "/src/assets/choukai/option/2b.png" },
+      { "answerAttach": "/src/assets/choukai/option/2c.png" }
     ],
     "answerOptions": [
       { "answerText": "1", "isCorrect": false },
@@ -31,12 +31,12 @@
   },
   {
     "number": 3,
-    "audio": "/src/assets/2.mp3",
+    "audio": "/src/assets/choukai/2.mp3",
     "questionText": "彼らは休日の活動について話しています。エコさんはどこでそれをしていますか？",
     "attach": [
-      { "answerAttach": "/src/assets/3a.png" },
-      { "answerAttach": "/src/assets/3b.png" },
-      { "answerAttach": "/src/assets/3c.png" }
+      { "answerAttach": "/src/assets/choukai/option/3a.png" },
+      { "answerAttach": "/src/assets/choukai/option/3b.png" },
+      { "answerAttach": "/src/assets/choukai/option/3c.png" }
     ],
     "answerOptions": [
       { "answerText": "1", "isCorrect": true },
@@ -46,12 +46,12 @@
   },
   {
     "number": 4,
-    "audio": "/src/assets/3.mp3",
+    "audio": "/src/assets/choukai/3.mp3",
     "questionText": "彼らは季節について話しています。カワノさんはどの季節が好きですか？",
     "attach": [
-      { "answerAttach": "/src/assets/4a.png" },
-      { "answerAttach": "/src/assets/4b.png" },
-      { "answerAttach": "/src/assets/4c.png" }
+      { "answerAttach": "/src/assets/choukai/option/4a.png" },
+      { "answerAttach": "/src/assets/choukai/option/4b.png" },
+      { "answerAttach": "/src/assets/choukai/option/4c.png" }
     ],
     "answerOptions": [
       { "answerText": "1", "isCorrect": false },
@@ -61,12 +61,12 @@
   },
   {
     "number": 5,
-    "audio": "/src/assets/3.mp3",
+    "audio": "/src/assets/choukai/3.mp3",
     "questionText": "彼らは季節について話しています。なぜカワノさんはその季節が好きですか？",
     "attach": [
-      { "answerAttach": "/src/assets/5a.png" },
-      { "answerAttach": "/src/assets/5b.png" },
-      { "answerAttach": "/src/assets/5c.png" }
+      { "answerAttach": "/src/assets/choukai/option/5a.png" },
+      { "answerAttach": "/src/assets/choukai/option/5b.png" },
+      { "answerAttach": "/src/assets/choukai/option/5c.png" }
     ],
     "answerOptions": [
       { "answerText": "1", "isCorrect": true },
@@ -76,12 +76,12 @@
   },
   {
     "number": 6,
-    "audio": "/src/assets/4.mp3",
+    "audio": "/src/assets/choukai/4.mp3",
     "questionText": "彼らはおすすめの場所について話しています。男性がおすすめする場所はどこですか？",
     "attach": [
-      { "answerAttach": "/src/assets/6a.png" },
-      { "answerAttach": "/src/assets/6b.png" },
-      { "answerAttach": "/src/assets/6c.png" }
+      { "answerAttach": "/src/assets/choukai/option/6a.png" },
+      { "answerAttach": "/src/assets/choukai/option/6b.png" },
+      { "answerAttach": "/src/assets/choukai/option/6c.png" }
     ],
     "answerOptions": [
       { "answerText": "1", "isCorrect": true },
@@ -91,12 +91,12 @@
   },
   {
     "number": 7,
-    "audio": "/src/assets/5.mp3",
+    "audio": "/src/assets/choukai/5.mp3",
     "questionText": "男性がアジアバグズ店の場所を尋ねています。アジアバグズ店はどこにありますか？",
     "attach": [
-      { "answerAttach": "/src/assets/7a.png" },
-      { "answerAttach": "/src/assets/7b.png" },
-      { "answerAttach": "/src/assets/7c.png" }
+      { "answerAttach": "/src/assets/choukai/option/7a.png" },
+      { "answerAttach": "/src/assets/choukai/option/7b.png" },
+      { "answerAttach": "/src/assets/choukai/option/7c.png" }
     ],
     "answerOptions": [
       { "answerText": "1", "isCorrect": false },
@@ -106,12 +106,12 @@
   },
   {
     "number": 8,
-    "audio": "/src/assets/6.mp3",
+    "audio": "/src/assets/choukai/6.mp3",
     "questionText": "男性が日本語のクラスに参加したいと思っています。男性はどのクラスに参加しますか？",
     "attach": [
-      { "answerAttach": "/src/assets/8a.png" },
-      { "answerAttach": "/src/assets/8b.png" },
-      { "answerAttach": "/src/assets/8c.png" }
+      { "answerAttach": "/src/assets/choukai/option/8a.png" },
+      { "answerAttach": "/src/assets/choukai/option/8b.png" },
+      { "answerAttach": "/src/assets/choukai/option/8c.png" }
     ],
     "answerOptions": [
       { "answerText": "1", "isCorrect": true },
@@ -121,12 +121,12 @@
   },
   {
     "number": 9,
-    "audio": "/src/assets/7.mp3",
+    "audio": "/src/assets/choukai/7.mp3",
     "questionText": "男性がインタビューを受けています。以前、男性はどこで日本語を学びましたか？",
     "attach": [
-      { "answerAttach": "/src/assets/9a.png" },
-      { "answerAttach": "/src/assets/9b.png" },
-      { "answerAttach": "/src/assets/9c.png" }
+      { "answerAttach": "/src/assets/choukai/option/9a.png" },
+      { "answerAttach": "/src/assets/choukai/option/9b.png" },
+      { "answerAttach": "/src/assets/choukai/option/9c.png" }
     ],
     "answerOptions": [
       { "answerText": "1", "isCorrect": false },
@@ -136,12 +136,12 @@
   },
   {
     "number": 10,
-    "audio": "/src/assets/8.mp3",
+    "audio": "/src/assets/choukai/8.mp3",
     "questionText": "二人の女性が茶碗蒸しについて話しています。茶碗蒸しにはどんな材料が入っていますか？",
     "attach": [
-      { "answerAttach": "/src/assets/10a.png" },
-      { "answerAttach": "/src/assets/10b.png" },
-      { "answerAttach": "/src/assets/10c.png" }
+      { "answerAttach": "/src/assets/choukai/option/10a.png" },
+      { "answerAttach": "/src/assets/choukai/option/10b.png" },
+      { "answerAttach": "/src/assets/choukai/option/10c.png" }
     ],
     "answerOptions": [
       { "answerText": "1", "isCorrect": true },
@@ -151,12 +151,12 @@
   },
   {
     "number": 11,
-    "audio": "/src/assets/9.mp3",
+    "audio": "/src/assets/choukai/9.mp3",
     "questionText": "彼らはアンナさんの送別会について話しています。アンナさんにどんなプレゼントを贈りますか？",
     "attach": [
-      { "answerAttach": "/src/assets/11a.png" },
-      { "answerAttach": "/src/assets/11b.png" },
-      { "answerAttach": "/src/assets/11c.png" }
+      { "answerAttach": "/src/assets/choukai/option/11a.png" },
+      { "answerAttach": "/src/assets/choukai/option/11b.png" },
+      { "answerAttach": "/src/assets/choukai/option/11c.png" }
     ],
     "answerOptions": [
       { "answerText": "1", "isCorrect": false },
@@ -166,12 +166,12 @@
   },
   {
     "number": 12,
-    "audio": "/src/assets/10.mp3",
+    "audio": "/src/assets/choukai/10.mp3",
     "questionText": "男性は健康を維持するために何をしていますか？",
     "attach": [
-      { "answerAttach": "/src/assets/12a.png" },
-      { "answerAttach": "/src/assets/12b.png" },
-      { "answerAttach": "/src/assets/12c.png" }
+      { "answerAttach": "/src/assets/choukai/option/12a.png" },
+      { "answerAttach": "/src/assets/choukai/option/12b.png" },
+      { "answerAttach": "/src/assets/choukai/option/12c.png" }
     ],
     "answerOptions": [
       { "answerText": "1", "isCorrect": false },
@@ -181,12 +181,12 @@
   },
   {
     "number": 13,
-    "audio": "/src/assets/11.mp3",
+    "audio": "/src/assets/choukai/11.mp3",
     "questionText": "社員が休暇を申し出ています。社員が休暇を取る理由は何ですか？",
     "attach": [
-      { "answerAttach": "/src/assets/13a.png" },
-      { "answerAttach": "/src/assets/13b.png" },
-      { "answerAttach": "/src/assets/13c.png" }
+      { "answerAttach": "/src/assets/choukai/option/13a.png" },
+      { "answerAttach": "/src/assets/choukai/option/13b.png" },
+      { "answerAttach": "/src/assets/choukai/option/13c.png" }
     ],
     "answerOptions": [
       { "answerText": "1", "isCorrect": false },
@@ -196,12 +196,12 @@
   },
   {
     "number": 14,
-    "audio": "/src/assets/12.mp3",
+    "audio": "/src/assets/choukai/12.mp3",
     "questionText": "男性が健康診断を受けています。医者によると、何をする必要がありますか？",
     "attach": [
-      { "answerAttach": "/src/assets/14a.png" },
-      { "answerAttach": "/src/assets/14b.png" },
-      { "answerAttach": "/src/assets/14c.png" }
+      { "answerAttach": "/src/assets/choukai/option/14a.png" },
+      { "answerAttach": "/src/assets/choukai/option/14b.png" },
+      { "answerAttach": "/src/assets/choukai/option/14c.png" }
     ],
     "answerOptions": [
       { "answerText": "1", "isCorrect": false },
@@ -211,12 +211,12 @@
   },
   {
     "number": 15,
-    "audio": "/src/assets/12.mp3",
+    "audio": "/src/assets/choukai/12.mp3",
     "questionText": "男性が健康診断を受けています。医者によると、何をしてはいけませんか？",
     "attach": [
-      { "answerAttach": "/src/assets/15a.png" },
-      { "answerAttach": "/src/assets/15b.png" },
-      { "answerAttach": "/src/assets/15c.png" }
+      { "answerAttach": "/src/assets/choukai/option/15a.png" },
+      { "answerAttach": "/src/assets/choukai/option/15b.png" },
+      { "answerAttach": "/src/assets/choukai/option/15c.png" }
     ],
     "answerOptions": [
       { "answerText": "1", "isCorrect": false },
