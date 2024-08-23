@@ -18,25 +18,25 @@ const Test = () => {
             ilust={goi}
             title={"Goi-Kotoba"}
             desc={"Tes kemampuan kosakata dan penggunaan kata dalam bahasa Jepang."}
-            path={"src/pages/goi-kotoba/index.html"}
+            path={"/goi-kotoba"}
           />
           <Card
             ilust={bunpou}
             title={"Bunpou-Hyougen"}
             desc={"Tes kemampuan tata bahasa dan ekspresi bahasa Jepang."}
-            path={"src/pages/bunpou-hyougen/index.html"}
+            path={"/bunpou-hyougen"}
           />
           <Card
             ilust={dokkai}
             title={"Dokkai"}
             desc={"Tes kemampuan membaca dan memahami teks berbahasa Jepang."}
-            path={"src/pages/dokkai/index.html"}
+            path={"/dokkai"}
           />
           <Card
             ilust={choukai}
             title={"Choukai"}
             desc={"Tes kemampuan mendengarkan dan memahami percakapan berbahasa Jepang."}
-            path={"src/pages/choukai/index.html"}
+            path={"/choukai"}
           />
         </div>
       </div>
