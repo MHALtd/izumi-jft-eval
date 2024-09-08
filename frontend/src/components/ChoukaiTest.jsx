@@ -252,7 +252,6 @@ const ChoukaiTest = () => {
                   className="bg-white p-8 border-2 border-gray-300 shadow-lg w-3/4 max-w-3xl text-center">
                   <div className="mb-6">
                     <h1 className="text-3xl font-bold text-gray-800">Sertifikat Latihan Soal Japanese Foundation Test</h1>
-                    <p className="text-xl text-gray-600">LPK Izumi Cabang Bekasi Utara</p>
                   </div>
                   <div className="mt-10 mb-10">
                     <p className="text-lg text-gray-700">Diberikan kepada:</p>
@@ -262,25 +261,17 @@ const ChoukaiTest = () => {
                       <span id="tanggal-sertifikat"></span>.
                     </p>
                   </div>
-                  <div className="mt-8 flex justify-between px-16">
+                  <div className="mt-8 flex justify-center px-16">
                     <div className="text-center">
                       <p className="text-gray-700">Instruktur</p>
                       <div className="border-t border-gray-500 mt-20"></div>
                       <p className="text-gray-900">_______________ 先生</p>
                     </div>
-                    <div className="text-center">
-                      <p className="text-gray-700">Kepala Cabang</p>
-                      <div className="flex justify-center items-center">
-                        <img src="src//assets/signature.png" alt="" className="w-40" />
-                      </div>
-                      <div className="border-t border-gray-500"></div>
-                      <p className="text-gray-900">H.Bardan Priyanto, SE. 先生</p>
-                    </div>
                   </div>
                 </div>
               </div>
               <div className="text-center pt-5">
-                <Link to="/home">
+                <Link to="/">
                   <button onClick={handleDownloadCertificate} className="btnPrimary">
                     Download PDF
                   </button>
