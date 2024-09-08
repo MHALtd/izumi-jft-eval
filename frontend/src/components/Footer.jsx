@@ -29,7 +29,7 @@ const Footer = () => {
       <hr />
 
       <div className="flex items-center justify-center">
-        <p className="text-primary">@Izumi Indonesia 2024. All rights reserved.</p>
+        <p className="text-primary">@MHALtd, 2024. All rights reserved.</p>
       </div>
     </div>
   );
