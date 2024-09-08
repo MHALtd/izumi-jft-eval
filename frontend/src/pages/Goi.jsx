@@ -11,7 +11,7 @@ const Goi = () => {
       <GoiTest />
       <hr />
       <div className="bg-tartiary flex items-center justify-center fixed inset-x-0 bottom-0">
-        <p className="text-primary">@Izumi Indonesia 2024. All rights reserved.</p>
+        <p className="text-primary">@MHALtd, 2024. All rights reserved.</p>
       </div>
     </>
   );
