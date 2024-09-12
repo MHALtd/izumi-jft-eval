@@ -8,6 +8,9 @@ export default defineConfig({
   define: {
     "process.env.VITE_BACKEND_LINK": JSON.stringify(process.env.VITE_BACKEND_LINK),
   },
+  server: {
+    historyApiFallback: true,
+  },
   build: {
     outDir: "production",
   },
