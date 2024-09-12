@@ -1,7 +1,7 @@
 [
   {
     "number": 1,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai1.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai1.png",
     "questionText": "カルロスからの返事はどれですか。",
     "answerOptions": [
       { "answerText": "メール、ありがとう。来週は行きます。", "isCorrect": true },
@@ -11,7 +11,7 @@
   },
   {
     "number": 2,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai2.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai2.png",
     "questionText": "薬を飲んで、注意することはなんですか。",
     "answerOptions": [
       { "answerText": "薬を寝る前に、飲みません。", "isCorrect": false },
@@ -21,7 +21,7 @@
   },
   {
     "number": 3,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai3.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai3.png",
     "questionText": "ゆすけさんはビーフステーキセット、ご飯単品、アイスフルーツ、を注文しました。いくら払いますか。",
     "answerOptions": [
       { "answerText": "2100円。", "isCorrect": true },
@@ -31,7 +31,7 @@
   },
   {
     "number": 4,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai4.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai4.png",
     "questionText": "ブラジルではだれがだれに何をおくりますか。",
     "answerOptions": [
       { "answerText": "女の人が好きな男の人にチョコレートをおくります。", "isCorrect": false },
@@ -41,7 +41,7 @@
   },
   {
     "number": 5,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai5.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai5.png",
     "questionText": "子供講座（こうざ）「牛乳パック椅子」は何曜日、何を持ってる行きますか。",
     "answerOptions": [
       { "answerText": "土曜日、牛乳パック", "isCorrect": true },
@@ -51,7 +51,7 @@
   },
   {
     "number": 6,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai6.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai6.png",
     "questionText": "さくらガーデンでは明日の朝１０時半から１２時まで何ができませんか。",
     "answerOptions": [
       { "answerText": "エレベーターにのること", "isCorrect": true },
@@ -61,7 +61,7 @@
   },
   {
     "number": 7,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai7.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai7.png",
     "questionText": "文章に正しいものはどれですか。",
     "answerOptions": [
       { "answerText": "一皿のすしは1000円ぐらいのなります", "isCorrect": false },
@@ -71,7 +71,7 @@
   },
   {
     "number": 8,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai8.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai8.png",
     "questionText": "健康づくりのこうざに参加するのに、いくら払いますか。",
     "answerOptions": [
       { "answerText": "500円はらいます", "isCorrect": false },
@@ -81,7 +81,7 @@
   },
   {
     "number": 9,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai9.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai9.png",
     "questionText": "リコさんはZoomの教室に参加したいです。いつ参加できますか。",
     "answerOptions": [
       { "answerText": "5月26日（金）", "isCorrect": false },
@@ -91,7 +91,7 @@
   },
   {
     "number": 10,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai10.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai10.png",
     "questionText": "花火大会は雨が降るときは、どうしますか。",
     "answerOptions": [
       { "answerText": "雨が降るときはつぎの月に行われます。", "isCorrect": false },
@@ -101,7 +101,7 @@
   },
   {
     "number": 11,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai11.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai11.png",
     "questionText": "どうしてコンビニを利用する人がふえましたか。",
     "answerOptions": [
       { "answerText": "スーパーよりコンビニのほうが安いから。", "isCorrect": false },
@@ -111,7 +111,7 @@
   },
   {
     "number": 12,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai12.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai12.png",
     "questionText": "二人は何時に会えましたか。",
     "answerOptions": [
       { "answerText": "10時15分", "isCorrect": false },
@@ -121,7 +121,7 @@
   },
   {
     "number": 13,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai13.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai13.png",
     "questionText": "ヒロさんはどうして9時に来ませんでしたか。",
     "answerOptions": [
       { "answerText": "待ち合わせをしたから。", "isCorrect": false },
@@ -131,7 +131,7 @@
   },
   {
     "number": 14,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai14.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai14.png",
     "questionText": "日本語教室は週に何回何曜日行われますか。",
     "answerOptions": [
       { "answerText": "週に1回木曜日。", "isCorrect": true },
@@ -141,7 +141,7 @@
   },
   {
     "number": 15,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai15.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai15.png",
     "questionText": "たまごのアレルギーがある人はこのおにぎりを食べられますか。",
     "answerOptions": [
       { "answerText": "はい、食べられます。", "isCorrect": false },
@@ -151,7 +151,7 @@
   },
   {
     "number": 16,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai16.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai16.png",
     "questionText": "「わたし」は北海道で何をしましたか。",
     "answerOptions": [
       { "answerText": "スキーをしたり、写真うをとったりしました。", "isCorrect": false },
@@ -161,7 +161,7 @@
   },
   {
     "number": 17,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai17.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai17.png",
     "questionText": "この薬はいつ飲めばいいですか。",
     "answerOptions": [
       { "answerText": "ごはんを食べる30分前。", "isCorrect": false },
@@ -171,7 +171,7 @@
   },
   {
     "number": 18,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai18.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai18.png",
     "questionText": "料理のまえに、あやかさんは何をしますか。",
     "answerOptions": [
       { "answerText": "スーパーでカレーのざいりょうを買います。", "isCorrect": false },
@@ -181,7 +181,7 @@
   },
   {
     "number": 19,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai19.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai19.png",
     "questionText": "キムロットさんはどうしてうれしかったですか。",
     "answerOptions": [
       { "answerText": "もうすぐ自分の国かえりますから。", "isCorrect": false },
@@ -191,7 +191,7 @@
   },
   {
     "number": 20,
-    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/dokkai/dokkai20.png",
+    "attach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/dokkai/dokkai20.png",
     "questionText": "6月15日にミルクを買ったら、いくらでかえますか。",
     "answerOptions": [
       { "answerText": "311円で買えます。", "isCorrect": false },

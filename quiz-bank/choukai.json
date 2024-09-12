@@ -1,17 +1,17 @@
 [
   {
     "number": 1,
-    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/1.mp3",
+    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/1.mp3",
     "questionText": "女性はどんな仕事をしていますか？",
     "attach": [
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/1a.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/1a.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/1b.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/1b.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/1c.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/1c.png"
       }
     ],
     "answerOptions": [
@@ -22,17 +22,17 @@
   },
   {
     "number": 2,
-    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/2.mp3",
+    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/2.mp3",
     "questionText": "彼らは休日の活動について話しています。エコさんは何をしていますか？",
     "attach": [
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/2a.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/2a.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/2b.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/2b.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/2c.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/2c.png"
       }
     ],
     "answerOptions": [
@@ -43,17 +43,17 @@
   },
   {
     "number": 3,
-    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/2.mp3",
+    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/2.mp3",
     "questionText": "彼らは休日の活動について話しています。エコさんはどこでそれをしていますか？",
     "attach": [
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/3a.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/3a.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/3b.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/3b.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/3c.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/3c.png"
       }
     ],
     "answerOptions": [
@@ -64,17 +64,17 @@
   },
   {
     "number": 4,
-    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/3.mp3",
+    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/3.mp3",
     "questionText": "彼らは季節について話しています。カワノさんはどの季節が好きですか？",
     "attach": [
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/4a.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/4a.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/4b.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/4b.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/4c.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/4c.png"
       }
     ],
     "answerOptions": [
@@ -85,17 +85,17 @@
   },
   {
     "number": 5,
-    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/3.mp3",
+    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/3.mp3",
     "questionText": "彼らは季節について話しています。なぜカワノさんはその季節が好きですか？",
     "attach": [
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/5a.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/5a.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/5b.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/5b.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/5c.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/5c.png"
       }
     ],
     "answerOptions": [
@@ -106,17 +106,17 @@
   },
   {
     "number": 6,
-    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/4.mp3",
+    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/4.mp3",
     "questionText": "彼らはおすすめの場所について話しています。男性がおすすめする場所はどこですか？",
     "attach": [
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/6a.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/6a.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/6b.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/6b.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/6c.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/6c.png"
       }
     ],
     "answerOptions": [
@@ -127,17 +127,17 @@
   },
   {
     "number": 7,
-    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/5.mp3",
+    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/5.mp3",
     "questionText": "男性がアジアバグズ店の場所を尋ねています。アジアバグズ店はどこにありますか？",
     "attach": [
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/7a.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/7a.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/7b.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/7b.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/7c.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/7c.png"
       }
     ],
     "answerOptions": [
@@ -148,17 +148,17 @@
   },
   {
     "number": 8,
-    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/6.mp3",
+    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/6.mp3",
     "questionText": "男性が日本語のクラスに参加したいと思っています。男性はどのクラスに参加しますか？",
     "attach": [
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/8a.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/8a.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/8b.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/8b.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/8c.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/8c.png"
       }
     ],
     "answerOptions": [
@@ -169,17 +169,17 @@
   },
   {
     "number": 9,
-    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/7.mp3",
+    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/7.mp3",
     "questionText": "男性がインタビューを受けています。以前、男性はどこで日本語を学びましたか？",
     "attach": [
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/9a.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/9a.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/9b.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/9b.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/9c.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/9c.png"
       }
     ],
     "answerOptions": [
@@ -190,17 +190,17 @@
   },
   {
     "number": 10,
-    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/8.mp3",
+    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/8.mp3",
     "questionText": "二人の女性が茶碗蒸しについて話しています。茶碗蒸しにはどんな材料が入っていますか？",
     "attach": [
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/10a.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/10a.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/10b.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/10b.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/10c.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/10c.png"
       }
     ],
     "answerOptions": [
@@ -211,17 +211,17 @@
   },
   {
     "number": 11,
-    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/9.mp3",
+    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/9.mp3",
     "questionText": "彼らはアンナさんの送別会について話しています。アンナさんにどんなプレゼントを贈りますか？",
     "attach": [
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/11a.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/11a.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/11b.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/11b.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/11c.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/11c.png"
       }
     ],
     "answerOptions": [
@@ -232,17 +232,17 @@
   },
   {
     "number": 12,
-    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/10.mp3",
+    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/10.mp3",
     "questionText": "男性は健康を維持するために何をしていますか？",
     "attach": [
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/12a.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/12a.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/12b.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/12b.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/12c.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/12c.png"
       }
     ],
     "answerOptions": [
@@ -253,17 +253,17 @@
   },
   {
     "number": 13,
-    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/11.mp3",
+    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/11.mp3",
     "questionText": "社員が休暇を申し出ています。社員が休暇を取る理由は何ですか？",
     "attach": [
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/13a.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/13a.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/13b.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/13b.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/13c.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/13c.png"
       }
     ],
     "answerOptions": [
@@ -274,17 +274,17 @@
   },
   {
     "number": 14,
-    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/12.mp3",
+    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/12.mp3",
     "questionText": "男性が健康診断を受けています。医者によると、何をする必要がありますか？",
     "attach": [
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/14a.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/14a.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/14b.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/14b.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/14c.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/14c.png"
       }
     ],
     "answerOptions": [
@@ -295,17 +295,17 @@
   },
   {
     "number": 15,
-    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/12.mp3",
+    "audio": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/12.mp3",
     "questionText": "男性が健康診断を受けています。医者によると、何をしてはいけませんか？",
     "attach": [
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/15a.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/15a.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/15b.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/15b.png"
       },
       {
-        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/frontend/src/assets/choukai/option/15c.png"
+        "answerAttach": "https://raw.githubusercontent.com/MHALtd/izumi-jft-eval/main/quiz-bank/choukai/option/15c.png"
       }
     ],
     "answerOptions": [
