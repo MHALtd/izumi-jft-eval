@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const Card = ({ ilust, title, desc, path }) => {
   return (
     <div>
@@ -8,9 +10,9 @@ const Card = ({ ilust, title, desc, path }) => {
         </div>
         <p className="text-pale text-center my-5">{desc}</p>
         <div className="flex items-center justify-center pb-3">
-          <a href={path}>
+          <Link to={path}>
             <button className="btnPrimary text-2xl text-brokenwhite rounded-[35px]">Mulai Tes</button>
-          </a>
+          </Link>
         </div>
       </div>
     </div>
